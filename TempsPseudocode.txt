@@ -1,0 +1,7 @@
+1. Initialize two ArrayLists: One for storing the days of the week and another for storing the corresponding average temperatures.
+
+2. Input data: Use a loop to input the day of the week and the corresponding average temperature from the user.
+
+3. User prompt: Prompt the user to enter a specific day of the week or “week”.
+
+4. Display data: If a specific day is entered, display the day and its corresponding temperature. If “week” is entered, display all days with their temperatures and also calculate and display the weekly average temperature.
